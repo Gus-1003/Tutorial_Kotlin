@@ -2,7 +2,9 @@
 // main - nome da função;
 // () - passagem de paramentros
 // { } - Escopo da função
-// println - Função que possui a capacidade de imprimir texto no console
+
+// print - imprime seu argumento para a saída padrão.
+// println -  imprime seus argumentos e adiciona uma quebra de linha, de modo que a próxima coisa que você imprimir aparece na próxima linha.
 // () - Paramentro da função println;
 
 fun main() {
