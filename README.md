@@ -10,3 +10,6 @@ Aprendendo na pratica a linguagem Kotlin e algumas de suas funções;
 
 ## Canais / Videos do Youtube: 
 > RapaduraDev = https://www.youtube.com/channel/UCYA6M9233P18-9swU0OShXQ
+
+## Extras:
+> Korlibs (Kotlin cORoutines LIBraries) = https://docs.korge.org/
